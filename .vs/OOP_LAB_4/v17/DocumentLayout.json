@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CA39C3-F9E3-40DD-967F-65C63B191DD8}|OOP_LAB_4\\OOP_LAB_4.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\OOP_LAB_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41CA39C3-F9E3-40DD-967F-65C63B191DD8}|OOP_LAB_4\\OOP_LAB_4.vcxproj|solutionrelative:OOP_LAB_4\\OOP_LAB_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CA39C3-F9E3-40DD-967F-65C63B191DD8}|OOP_LAB_4\\OOP_LAB_4.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\INTEGER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41CA39C3-F9E3-40DD-967F-65C63B191DD8}|OOP_LAB_4\\OOP_LAB_4.vcxproj|solutionrelative:OOP_LAB_4\\INTEGER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CA39C3-F9E3-40DD-967F-65C63B191DD8}|OOP_LAB_4\\OOP_LAB_4.vcxproj|D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\INTEGER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41CA39C3-F9E3-40DD-967F-65C63B191DD8}|OOP_LAB_4\\OOP_LAB_4.vcxproj|solutionrelative:OOP_LAB_4\\INTEGER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INTEGER.h",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\INTEGER.h",
+              "RelativeDocumentMoniker": "OOP_LAB_4\\INTEGER.h",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\INTEGER.h",
+              "RelativeToolTip": "OOP_LAB_4\\INTEGER.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T10:42:16.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INTEGER.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\INTEGER.cpp",
+              "RelativeDocumentMoniker": "OOP_LAB_4\\INTEGER.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\INTEGER.cpp",
+              "RelativeToolTip": "OOP_LAB_4\\INTEGER.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T10:42:29.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP_LAB_4.cpp",
+              "DocumentMoniker": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\OOP_LAB_4.cpp",
+              "RelativeDocumentMoniker": "OOP_LAB_4\\OOP_LAB_4.cpp",
+              "ToolTip": "D:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u041E\u041E\u041F\\OOP_LAB_4\\OOP_LAB_4\\OOP_LAB_4.cpp",
+              "RelativeToolTip": "OOP_LAB_4\\OOP_LAB_4.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T10:36:30.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
